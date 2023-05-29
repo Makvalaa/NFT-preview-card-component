@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: (https://github.com/Makvalaa/NFT-preview-card-component.git)
+- Live Site URL: (https://ani-menaphire.github.io/NFT-preview-card-component/)
 
 ## My process
 
